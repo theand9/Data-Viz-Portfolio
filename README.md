@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Data-Viz-Portfolio: Amogh Desai
 
@@ -25,6 +25,6 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
+[Part I](final-project-part-one.md)
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
