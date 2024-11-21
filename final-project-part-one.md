@@ -24,7 +24,6 @@ The rapid advancement of Generative AI technologies, such as GPT-4 and other lar
       - Regional variations in energy sources and their impact
    2. Water Usage Analysis
       - Data center cooling requirements
-      - Geographic distribution of AI training facilities
    3. Efficiency Trends
       - Historical progression of AI energy efficiency
       - Improvements in training techniques
@@ -42,24 +41,25 @@ The rapid advancement of Generative AI technologies, such as GPT-4 and other lar
 
 
 # Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+![20241120_235830](https://github.com/user-attachments/assets/b7485504-00f5-4736-909a-718d9e7bcdfd)
 
-Text here...
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+Since this topic and area of focus is fairly new a lot of data can be found in research papers, industry reports. Attempt has been made to find  concerete datasets. This research uses the term **_datasets_** loosely to tell a compelling story.
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+|MLCommons Training Results      |https://mlcommons.org/en/training-normal-21/     |Model training times and computing resources             |
+|Energy Consumption and Emissions Data      |https://arxiv.org/pdf/1906.02243     |Energy and Policy Considerations for Deep Learning in NLP by Emma Strubell et al.             |
+|Energy Consumption and Emissions Data      |https://arxiv.org/pdf/2104.10350     |Carbon Emissions and Large Neural Network Training             |
+|Energy Consumption and Emissions Data      |https://drive.google.com/drive/folders/16Y5e3tNqaqwHAPFQeZWwdAexZlQNDbh-     |AI Index Report by Stanford University             |
+|Data Center Statistics      |https://live-lbl-eta-publications.pantheonsite.io/sites/default/files/lbnl-1005775_v2.pdf     | U.S. Data Center Energy Usage Report by the Department of Energy             |
+|International Energy Agency (IEA)      |https://www.iea.org/reports/co2-emissions-in-2023     |Data on global CO₂ emissions             |
+|Tech Company Sustainability Reports      |https://sustainability.google/reports/google-2024-environmental-report/, https://www.microsoft.com/en-us/corporate-responsibility/sustainability/report, https://sustainability.aboutamazon.com/2023-amazon-sustainability-report.pdf     | Google, Microsoft, and Amazon's commitments to renewable energy            |
+|Dataset on energy consumption by sector      |https://catalog.data.gov/dataset/monthly-and-annual-energy-consumption-by-sector     |Monthly data since January 1973 and annual data since 1949 on U.S. primary and total energy consumption by end-use sector (residential, commercial, industrial, transportation) and electric power sector             |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+1. Quantitative Analysis: Use numerical data to create charts and graphs that illustrate the scale of energy consumption and emissions.
+2. Comparative Metrics: Provide context by comparing AI's environmental impact to other industries or activities.
+3. Trend Visualization: Show how the impact has changed over time and project future trends.
+4. Final Project: Create a compelling narrative on Shorthand
