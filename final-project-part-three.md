@@ -2,7 +2,7 @@
 
 
 # The final data story
-> https://carnegiemellon.shorthandstories.com/environmental-cost-of-artificial-intelligence/index.html 
+> [https://carnegiemellon.shorthandstories.com/environmental-cost-of-artificial-intelligence/index.html](https://carnegiemellon.shorthandstories.com/environmental-cost-of-artificial-intelligence/index.html)
 
 The above link redirects to my shorthand presentation on the Environmental Cost of Artificial Intelligence.
 
